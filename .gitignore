@@ -416,3 +416,32 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# --- Compilação (PyInstaller) ---
+build/
+dist/
+*.spec
+
+# --- Logs do Servidor ---
+# Evita subir seus logs de erro e saída pessoais
+*.log
+server.out.log
+server.err.log
+server.launch.error.log
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Configurações Locais ---
+# Se o seu config.py tiver caminhos que só existem no seu PC, 
+# às vezes é melhor subir um 'config.example.py' e ignorar o real.
+# Mas por enquanto, vamos deixar passar se ele for geral.
