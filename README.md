@@ -2,7 +2,7 @@
   <img src="https://github.com/joao-fcosta/installer-dungeon-blitz-reboot/raw/developer/image/banner.png" alt="Dungeon Blitz Logo" width="980" />
 </p>
 
-# <p align="center">Dungeon Blitz Reboot</p>
+# <p align="center">Dungeon Blitz Reboot Installer</p>
 Este é o instalador e launcher oficial (não-oficial) para o **Dungeon Blitz Reboot**. Ele automatiza toda a configuração necessária, incluindo o download do motor Flash, do servidor de jogo e do ambiente Python necessário para rodar tudo localmente no seu Windows.
 
 ## 🚀 Como Jogar
@@ -24,10 +24,6 @@ Este é o instalador e launcher oficial (não-oficial) para o **Dungeon Blitz Re
 ## 🛡️ Segurança e Privacidade
 
 - **Código Aberto:** O código deste launcher é aberto para inspeção.
-- **Isenção de Responsabilidade:** Este projeto é uma iniciativa de fãs para preservação do jogo. Não possuímos direitos sobre as artes ou marcas originais do Dungeon Blitz.
+- **Isenção de Responsabilidade:** Este projeto é uma iniciativa de fã para preservação do jogo. Não possuímos direitos sobre as artes ou marcas originais do Dungeon Blitz.
 - **Licença:** Distribuído sob a [Licença MIT](LICENSE).
 - **Creditos:** Deixo todos os creditos para a grande equipe da  [Minesa org](https://github.com/minesa-org/dungeon-blitz-reboot).
-
----
-
-Desenvolvido com ❤️ pela comunidade Dungeon Blitz Reboot.
