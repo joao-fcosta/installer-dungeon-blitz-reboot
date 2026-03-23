@@ -7,12 +7,12 @@ def ensure_base_dir(path):
     os.makedirs(path, exist_ok=True)
 
 def download_file(url, destination):
-    print(f"Baixando: {url}")
+    print(f"Baixando Flash Player...")
     urllib.request.urlretrieve(url, destination)
     print("Download concluído.")
 
 def download_and_extract_zip(url, destination):
-    print(f"Baixando repositório: {url}")
+    print(f"Baixando servidor???")
     zip_path = destination + ".zip"
     urllib.request.urlretrieve(url, zip_path)
     print("Download concluído.")
@@ -29,3 +29,14 @@ def download_and_extract_zip(url, destination):
     
     os.remove(zip_path)
     print("Repositório extraído.")
+
+class ConsoleRedirector:
+    def __init__(self, callback):
+        self.callback = callback
+
+    def write(self, string):
+        if string.strip():
+            self.callback(string.strip())
+
+    def flush(self):
+        pass
