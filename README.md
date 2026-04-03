@@ -7,8 +7,8 @@ Este é o instalador e launcher oficial (não-oficial) para o **Dungeon Blitz Re
 
 ## 🚀 Como Jogar
 
-1. **Baixe o executável:**
-   [:arrow_down: **Download DungeonBlitz.exe**](https://github.com/joao-fcosta/installer-dungeon-blitz-reboot/raw/main/DungeonBlitz.exe)
+1. **Baixe o arquivo compactado:**
+   [:arrow_down: **Download DungeonBlitz.exe**](https://github.com/joao-fcosta/installer-dungeon-blitz-reboot/raw/main/DungeonBlitz.rar)
 
 2. **Execute o arquivo:**
    - Ao abrir o `DungeonBlitz.exe`, ele verificará se você já tem os arquivos necessários.
